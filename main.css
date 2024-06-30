@@ -120,6 +120,7 @@ footer p {
 }
 
 .social-links img {
+    background-color: #ffffff;
     width: 50px; /* Ajuste o tamanho dos ícones conforme necessário */
     height: 50px; /* Ajuste o tamanho dos ícones conforme necessário */
 }
