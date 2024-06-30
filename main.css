@@ -111,3 +111,15 @@ footer p {
     margin: 0;
     color: #ffffff;
 }
+
+.social-links {
+    display: flex;
+    justify-content: space-around;
+    list-style: none; /* Remover o estilo de lista */
+    padding: 0; /* Remover padding padrão */
+}
+
+.social-links img {
+    width: 50px; /* Ajuste o tamanho dos ícones conforme necessário */
+    height: 50px; /* Ajuste o tamanho dos ícones conforme necessário */
+}
